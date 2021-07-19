@@ -1,0 +1,13 @@
+.header {
+    padding: 10px;
+}
+
+h3 {
+    color: white;
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+h3:hover {
+    color: lawngreen;
+}
